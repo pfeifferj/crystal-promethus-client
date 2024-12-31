@@ -1,0 +1,17 @@
+name: prometheus
+version: 0.1.0
+
+authors:
+  - Josephine Pfeiffer <hi@josie.lol>
+
+description: |
+  A Prometheus client library for Crystal following the official guidelines
+
+crystal: ">= 1.0.0"
+
+development_dependencies:
+  ameba:
+    github: crystal-ameba/ameba
+    version: ~> 1.4.0
+
+license: MIT

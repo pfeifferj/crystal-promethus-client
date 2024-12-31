@@ -1,0 +1,10 @@
+/lib/
+/.shards/
+*.dwarf
+.DS_Store
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.env
+/bin/
